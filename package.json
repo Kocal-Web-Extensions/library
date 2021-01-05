@@ -60,7 +60,7 @@
     "web-ext-types": "^3.2.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "qs": "^6.9.3",
     "webextension-polyfill": "^0.6.0"
   }
